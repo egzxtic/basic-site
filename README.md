@@ -1,3 +1,3 @@
-# Basic Site by EGZOTIC
+# Basic Site
 
 OPENSRC: Practice code in html/js/css
